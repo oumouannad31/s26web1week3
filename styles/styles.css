@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+}
+
+/* this is a comment in CSS*/
+
+/* to target all paragraphs, make a rule for p*/
+p{
+    color: rgb(255, 81, 0); /* "color" means text color */
+}
